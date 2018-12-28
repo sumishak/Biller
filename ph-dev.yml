@@ -1,7 +1,7 @@
 spring:
   mail:
     host: mail.coolmindsinc.com
-    port: 587
+    port: 465
     username: sumisha.k@coolmindsinc.com
     password: sumishak@1995
     properties:
