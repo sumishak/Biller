@@ -2,7 +2,7 @@ spring:
   mail:
     host: mail.coolmindsinc.com
     port: 25
-    username: sumishaCoolminds@gmail.com
+    username: sumisha.k@coolmindsinc.com
     password: sumishak@1995
     properties:
       mail:
