@@ -1,8 +1,8 @@
 spring:
   mail:
-    host: mail.coolmindsinc.com
+    host: smtp.gmail.com
     port: 465
-    username: sumisha.k@coolmindsinc.com
+    username: sumishaCoolminds@gmail.com
     password: sumishak@1995
     properties:
       mail:
